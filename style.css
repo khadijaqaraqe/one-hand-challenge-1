@@ -1,0 +1,14 @@
+.opacity {
+    opacity: 0.5;
+  }
+ .upper-left {
+    text-align: left;
+    color:  white;
+ }
+ .upper-right {
+    text-align: right;
+    color:  white;
+ }
+ .container {
+    background-image: url("images/background.jpg");
+ }
